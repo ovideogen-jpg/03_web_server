@@ -111,6 +111,7 @@ class _AnimationHomeState extends State<AnimationHome> {
 
     return Scaffold(
       appBar: AppBar(
+        backgroundColor: Colors.orange,
         title: Text("🤖 Auto Animation Processor"),
         centerTitle: true,
       ),
