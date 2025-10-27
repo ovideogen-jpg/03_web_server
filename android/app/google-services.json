@@ -1,0 +1,30 @@
+{
+  "project_info": {
+    "project_number": "245728314587",
+    "firebase_url": "https://o3-gen-default-rtdb.firebaseio.com",
+    "project_id": "o3-gen",
+    "storage_bucket": "o3-gen.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:245728314587:android:727e346ad2daa9885438fe",
+        "android_client_info": {
+          "package_name": "com.app.cartoonvideo.animation.player"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDiwu0vppoSF_omsgvE-R9eW-xEpUgnUEM"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
